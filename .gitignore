@@ -401,3 +401,5 @@ FodyWeavers.xsd
 
 # Custom
 .venv-ml
+.DS-Store
+.ipynb_checkpoints
